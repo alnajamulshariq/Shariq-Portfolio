@@ -3,20 +3,4 @@
     <loc>https://alnajamulshariq.github.io/Shariq-Portfolio/</loc>
     <priority>1.00</priority>
   </url>
-  <url>
-    <loc>https://alnajamulshariq.github.io/Shariq-Portfolio/#about</loc>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://alnajamulshariq.github.io/Shariq-Portfolio/#services</loc>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://alnajamulshariq.github.io/Shariq-Portfolio/#portfolio</loc>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://alnajamulshariq.github.io/Shariq-Portfolio/#contact</loc>
-    <priority>0.80</priority>
-  </url>
 </urlset>
