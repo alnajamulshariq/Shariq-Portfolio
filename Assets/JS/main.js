@@ -59,7 +59,7 @@ ScrollReveal().reveal('.home-contact p, .about-content', { origin: 'right' });
 
 // Typed JS 
 const typed = new Typed('.multiple-text', {
-    strings: ['Full-Stack Web Developer', 'ASP.NET Core Developer', 'Web Designer', 'PHP Developer'],
+    strings: ['Flutter App Developer','Full-Stack Web Developer', 'ASP.NET Core Developer', 'Web Designer',],
     typeSpeed: 70,
     backSpeed: 70,
     backDelay: 1000,
